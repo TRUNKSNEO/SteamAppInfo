@@ -786,15 +786,15 @@
             "timebuildupdated": "1774420983"
         },
         "release": {
-            "buildid": "23071017",
+            "buildid": "23106820",
             "description": "Release, before public",
-            "timeupdated": "1777856308",
-            "timebuildupdated": "1777856308"
+            "timeupdated": "1778056712",
+            "timebuildupdated": "1778056712"
         },
         "staging": {
-            "buildid": "23106182",
-            "timeupdated": "1778053772",
-            "timebuildupdated": "1778053772"
+            "buildid": "23107601",
+            "timeupdated": "1778060338",
+            "timebuildupdated": "1778060338"
         }
     },
     "261020": {
@@ -4643,9 +4643,9 @@
     },
     "1639880": {
         "public": {
-            "buildid": "23015866",
-            "timeupdated": "1777485214",
-            "timebuildupdated": "1777485152"
+            "buildid": "23106283",
+            "timeupdated": "1778054656",
+            "timebuildupdated": "1778054356"
         },
         "1.10b": {
             "buildid": "11252688",
@@ -4684,10 +4684,10 @@
             "timebuildupdated": "1735904837"
         },
         "experimental": {
-            "buildid": "23015866",
+            "buildid": "23106283",
             "description": "For testing",
-            "timeupdated": "1777485152",
-            "timebuildupdated": "1777485152"
+            "timeupdated": "1778054356",
+            "timebuildupdated": "1778054356"
         }
     },
     "1652070": {
@@ -5285,9 +5285,9 @@
     },
     "1963720": {
         "public": {
-            "buildid": "22516523",
-            "timeupdated": "1775041400",
-            "timebuildupdated": "1774531591"
+            "buildid": "22520477",
+            "timeupdated": "1778058150",
+            "timebuildupdated": "1774546709"
         },
         "1.1.2.0": {
             "buildid": "21055749",
@@ -5498,10 +5498,10 @@
             "timebuildupdated": "1772810890"
         },
         "experimental": {
-            "buildid": "23105882",
+            "buildid": "23107137",
             "description": "Bleeding-edge updates",
-            "timeupdated": "1778052317",
-            "timebuildupdated": "1778052317"
+            "timeupdated": "1778058206",
+            "timebuildupdated": "1778058206"
         }
     },
     "2132500": {
