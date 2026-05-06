@@ -108,10 +108,10 @@
             "timebuildupdated": "1777581886"
         },
         "dev": {
-            "buildid": "23095419",
+            "buildid": "23109815",
             "description": "Development branch - Live daily updates",
-            "timeupdated": "1777993615",
-            "timebuildupdated": "1777993615"
+            "timeupdated": "1778069882",
+            "timebuildupdated": "1778069882"
         },
         "network_test": {
             "buildid": "22872282",
@@ -792,9 +792,9 @@
             "timebuildupdated": "1778056712"
         },
         "staging": {
-            "buildid": "23109496",
-            "timeupdated": "1778068438",
-            "timebuildupdated": "1778068438"
+            "buildid": "23110192",
+            "timeupdated": "1778071622",
+            "timebuildupdated": "1778071622"
         }
     },
     "261020": {
@@ -2946,9 +2946,9 @@
             "timebuildupdated": "1676141681"
         },
         "testers": {
-            "buildid": "23000941",
-            "timeupdated": "1777415116",
-            "timebuildupdated": "1777414232"
+            "buildid": "23110893",
+            "timeupdated": "1778074628",
+            "timebuildupdated": "1778074438"
         }
     },
     "756760": {
