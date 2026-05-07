@@ -786,15 +786,15 @@
             "timebuildupdated": "1774420983"
         },
         "release": {
-            "buildid": "23123684",
+            "buildid": "23125176",
             "description": "Release, before public",
-            "timeupdated": "1778139681",
-            "timebuildupdated": "1778139680"
+            "timeupdated": "1778145874",
+            "timebuildupdated": "1778145874"
         },
         "staging": {
-            "buildid": "23121961",
-            "timeupdated": "1778129061",
-            "timebuildupdated": "1778129061"
+            "buildid": "23126590",
+            "timeupdated": "1778151007",
+            "timebuildupdated": "1778151007"
         }
     },
     "261020": {
@@ -2728,9 +2728,9 @@
     },
     "739590": {
         "public": {
-            "buildid": "22804621",
-            "timeupdated": "1776282793",
-            "timebuildupdated": "1776282020"
+            "buildid": "23126536",
+            "timeupdated": "1778151624",
+            "timebuildupdated": "1778150779"
         },
         "11.0.6": {
             "buildid": "15755762",
@@ -2768,11 +2768,17 @@
             "timeupdated": "1776282020",
             "timebuildupdated": "1776282020"
         },
+        "13.0.3": {
+            "buildid": "23126536",
+            "description": "Beta 13.0.3",
+            "timeupdated": "1778150779",
+            "timebuildupdated": "1778150779"
+        },
         "playtest": {
-            "buildid": "22804279",
+            "buildid": "23080039",
             "description": "Eco Server Playtest Builds",
-            "timeupdated": "1776280792",
-            "timebuildupdated": "1776280287"
+            "timeupdated": "1778148779",
+            "timebuildupdated": "1777912490"
         }
     },
     "745640": {
