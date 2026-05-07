@@ -86,14 +86,9 @@
         "582401": {
             "manifests": {
                 "public": {
-                    "gid": "2474898191482117823",
-                    "size": "2803127848",
-                    "download": "858154544"
-                },
-                "releasecandidate": {
-                    "gid": "2474898191482117823",
-                    "size": "2803127848",
-                    "download": "858154544"
+                    "gid": "393608989124060464",
+                    "size": "2803127336",
+                    "download": "858154896"
                 },
                 "beta": {
                     "gid": "1664765293549950460",
@@ -104,15 +99,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "22799368",
-                "timeupdated": "1776675033",
-                "timebuildupdated": "1776260271"
-            },
-            "releasecandidate": {
-                "buildid": "22799368",
-                "description": "The next release, early.",
-                "timeupdated": "1776260271",
-                "timebuildupdated": "1776260271"
+                "buildid": "23131866",
+                "timeupdated": "1778172388",
+                "timebuildupdated": "1778170042"
             },
             "beta": {
                 "buildid": "22799863",
@@ -123,7 +112,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 35334597,
-    "_sha": "e70edde191f78ca28c80df3078d288ce438833b0",
-    "_size": 2804
+    "_change_number": 35720522,
+    "_sha": "2514e519f817f4fdf564cae89bb61aa56857e21d",
+    "_size": 2506
 }

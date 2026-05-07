@@ -768,10 +768,10 @@
             "timebuildupdated": "1768436960"
         },
         "aux02": {
-            "buildid": "23113384",
+            "buildid": "23132648",
             "description": "Up and coming",
-            "timeupdated": "1778083917",
-            "timebuildupdated": "1778083917"
+            "timeupdated": "1778173388",
+            "timebuildupdated": "1778173388"
         },
         "debug": {
             "buildid": "17041002",
@@ -780,10 +780,10 @@
             "timebuildupdated": "1737123193"
         },
         "last-month": {
-            "buildid": "22493711",
+            "buildid": "23071017",
             "description": "last-month",
-            "timeupdated": "1774431314",
-            "timebuildupdated": "1774420983"
+            "timeupdated": "1777858758",
+            "timebuildupdated": "1777856308"
         },
         "release": {
             "buildid": "23128973",
@@ -2292,15 +2292,9 @@
     "582320": {},
     "582400": {
         "public": {
-            "buildid": "22799368",
-            "timeupdated": "1776675033",
-            "timebuildupdated": "1776260271"
-        },
-        "releasecandidate": {
-            "buildid": "22799368",
-            "description": "The next release, early.",
-            "timeupdated": "1776260271",
-            "timebuildupdated": "1776260271"
+            "buildid": "23131866",
+            "timeupdated": "1778172388",
+            "timebuildupdated": "1778170042"
         },
         "beta": {
             "buildid": "22799863",
@@ -5182,9 +5176,9 @@
     },
     "1892930": {
         "public": {
-            "buildid": "23114420",
-            "timeupdated": "1778088620",
-            "timebuildupdated": "1778088105"
+            "buildid": "23132063",
+            "timeupdated": "1778171011",
+            "timebuildupdated": "1778170806"
         },
         "staging": {
             "buildid": "23130231",
