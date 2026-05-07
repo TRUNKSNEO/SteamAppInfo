@@ -58,9 +58,9 @@
                     "download": "545202320"
                 },
                 "release": {
-                    "gid": "668015861709201701",
-                    "size": "806433659",
-                    "download": "553084512"
+                    "gid": "1714324638482179812",
+                    "size": "805942460",
+                    "download": "552890784"
                 },
                 "staging": {
                     "gid": "5560985106170500980",
@@ -105,9 +105,9 @@
                     "download": "518748688"
                 },
                 "release": {
-                    "gid": "9007272835288430744",
-                    "size": "821572817",
-                    "download": "525425936"
+                    "gid": "9195939891609140126",
+                    "size": "821552466",
+                    "download": "525457904"
                 },
                 "staging": {
                     "gid": "5112922321718390819",
@@ -149,9 +149,9 @@
                     "download": "2525401728"
                 },
                 "release": {
-                    "gid": "7797726560326835365",
-                    "size": "4949097952",
-                    "download": "1133161568"
+                    "gid": "5781859277526202484",
+                    "size": "4976570444",
+                    "download": "1135394896"
                 },
                 "staging": {
                     "gid": "228558012490652547",
@@ -197,10 +197,10 @@
                 "timebuildupdated": "1774420983"
             },
             "release": {
-                "buildid": "23114895",
+                "buildid": "23123684",
                 "description": "Release, before public",
-                "timeupdated": "1778090365",
-                "timebuildupdated": "1778090365"
+                "timeupdated": "1778139681",
+                "timebuildupdated": "1778139680"
             },
             "staging": {
                 "buildid": "23121961",
@@ -211,7 +211,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35705776,
-    "_sha": "f4d9ff0e58d326840831804f92f1974164efb3d6",
-    "_size": 4631
+    "_change_number": 35708204,
+    "_sha": "22776495c9a7e72ac7ac3e996fecf998763245f6",
+    "_size": 4632
 }
