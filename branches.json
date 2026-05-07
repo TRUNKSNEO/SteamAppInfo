@@ -108,10 +108,10 @@
             "timebuildupdated": "1777581886"
         },
         "dev": {
-            "buildid": "23129307",
+            "buildid": "23133990",
             "description": "Development branch - Live daily updates",
-            "timeupdated": "1778160895",
-            "timebuildupdated": "1778160895"
+            "timeupdated": "1778179394",
+            "timebuildupdated": "1778179394"
         },
         "network_test": {
             "buildid": "22872282",
@@ -751,9 +751,9 @@
     },
     "258550": {
         "public": {
-            "buildid": "23071017",
-            "timeupdated": "1777858758",
-            "timebuildupdated": "1777856308"
+            "buildid": "23128973",
+            "timeupdated": "1778174522",
+            "timebuildupdated": "1778159732"
         },
         "aux01": {
             "buildid": "22989743",
@@ -2349,10 +2349,10 @@
             "timebuildupdated": "1692694313"
         },
         "beta": {
-            "buildid": "23114456",
+            "buildid": "23132947",
             "description": "beta branch",
-            "timeupdated": "1778088264",
-            "timebuildupdated": "1778088264"
+            "timeupdated": "1778174666",
+            "timebuildupdated": "1778174666"
         },
         "devbranch": {
             "buildid": "16447245",
@@ -3790,10 +3790,10 @@
             "timebuildupdated": "1724254957"
         },
         "preview": {
-            "buildid": "23083455",
+            "buildid": "23133825",
             "description": "Public test branch",
-            "timeupdated": "1777929092",
-            "timebuildupdated": "1777929092"
+            "timeupdated": "1778178690",
+            "timebuildupdated": "1778178690"
         },
         "unity-2022-preview": {
             "buildid": "20408931",
@@ -4796,9 +4796,9 @@
             "timebuildupdated": "1766048241"
         },
         "experimental": {
-            "buildid": "22984731",
-            "timeupdated": "1777398294",
-            "timebuildupdated": "1777339757"
+            "buildid": "23133030",
+            "timeupdated": "1778177466",
+            "timebuildupdated": "1778175088"
         }
     },
     "1697660": {
