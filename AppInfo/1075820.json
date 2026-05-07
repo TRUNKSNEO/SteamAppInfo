@@ -6,7 +6,8 @@
         "parent": "418480",
         "releasestate": "released",
         "associations": {},
-        "gameid": "1075820"
+        "gameid": "1075820",
+        "store_tags": {}
     },
     "extended": {
         "dlcforappid": "418480",
@@ -33,7 +34,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34351876,
-    "_sha": "93eafffa7b62aa6dfe2c66b55498eaad4da97cc4",
-    "_size": 651
+    "_change_number": 35714894,
+    "_sha": "98f273b5067a3aa5bfc95c5c7a043d7ab08a8398",
+    "_size": 674
 }
