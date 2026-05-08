@@ -87,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2992319208522376036",
-                    "size": "1706923280",
-                    "download": "647751200"
+                    "gid": "3569430384656184990",
+                    "size": "1706857740",
+                    "download": "647666832"
                 },
                 "1.10b": {
                     "gid": "2303407881568629235",
@@ -122,9 +122,9 @@
                     "download": "264773344"
                 },
                 "experimental": {
-                    "gid": "2992319208522376036",
-                    "size": "1706923280",
-                    "download": "647751200"
+                    "gid": "3569430384656184990",
+                    "size": "1706857740",
+                    "download": "647666832"
                 }
             }
         },
@@ -135,9 +135,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2395116732800024326",
-                    "size": "1580220481",
-                    "download": "425150816"
+                    "gid": "9087020980075180272",
+                    "size": "1580255319",
+                    "download": "425240112"
                 },
                 "1.10b": {
                     "gid": "582378037886370378",
@@ -170,18 +170,18 @@
                     "download": "212414544"
                 },
                 "experimental": {
-                    "gid": "2395116732800024326",
-                    "size": "1580220481",
-                    "download": "425150816"
+                    "gid": "9087020980075180272",
+                    "size": "1580255319",
+                    "download": "425240112"
                 }
             }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "23106283",
-                "timeupdated": "1778054656",
-                "timebuildupdated": "1778054356"
+                "buildid": "23142789",
+                "timeupdated": "1778228886",
+                "timebuildupdated": "1778228817"
             },
             "1.10b": {
                 "buildid": "11252688",
@@ -220,16 +220,16 @@
                 "timebuildupdated": "1735904837"
             },
             "experimental": {
-                "buildid": "23106283",
+                "buildid": "23142789",
                 "description": "For testing",
-                "timeupdated": "1778054356",
-                "timebuildupdated": "1778054356"
+                "timeupdated": "1778228817",
+                "timebuildupdated": "1778228817"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35682911,
-    "_sha": "2ec32b1abbfab496d38ee90c49ab845988796a5a",
+    "_change_number": 35734915,
+    "_sha": "43d6dd51d2223b402a6536194e92bb7eb9656eab",
     "_size": 5131
 }
