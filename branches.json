@@ -1607,9 +1607,9 @@
     },
     "443030": {
         "public": {
-            "buildid": "23101258",
-            "timeupdated": "1778082366",
-            "timebuildupdated": "1778021135"
+            "buildid": "23133488",
+            "timeupdated": "1778247915",
+            "timebuildupdated": "1778177052"
         },
         "conan-exiles-legacy": {
             "buildid": "22959347",
@@ -2946,9 +2946,9 @@
             "timebuildupdated": "1676141681"
         },
         "testers": {
-            "buildid": "23110893",
-            "timeupdated": "1778074628",
-            "timebuildupdated": "1778074438"
+            "buildid": "23147082",
+            "timeupdated": "1778247162",
+            "timebuildupdated": "1778247026"
         }
     },
     "756760": {
@@ -3344,9 +3344,9 @@
     },
     "920720": {
         "public": {
-            "buildid": "22526048",
-            "timeupdated": "1778067772",
-            "timebuildupdated": "1774575514"
+            "buildid": "23146609",
+            "timeupdated": "1778245050",
+            "timebuildupdated": "1778245050"
         },
         "classic": {
             "buildid": "9193201",
@@ -5181,10 +5181,10 @@
             "timebuildupdated": "1778170806"
         },
         "staging": {
-            "buildid": "23146447",
+            "buildid": "23147399",
             "description": "Builds before live",
-            "timeupdated": "1778244292",
-            "timebuildupdated": "1778244292"
+            "timeupdated": "1778248220",
+            "timebuildupdated": "1778248220"
         }
     },
     "1899880": {

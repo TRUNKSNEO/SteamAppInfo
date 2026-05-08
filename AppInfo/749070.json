@@ -59,9 +59,9 @@
                     "download": "703549760"
                 },
                 "testers": {
-                    "gid": "7084250175566248203",
-                    "size": "1983481136",
-                    "download": "1385006720"
+                    "gid": "4914581676076768165",
+                    "size": "1983440816",
+                    "download": "1384988800"
                 }
             }
         },
@@ -78,15 +78,15 @@
                 "timebuildupdated": "1676141681"
             },
             "testers": {
-                "buildid": "23110893",
-                "timeupdated": "1778074628",
-                "timebuildupdated": "1778074438"
+                "buildid": "23147082",
+                "timeupdated": "1778247162",
+                "timebuildupdated": "1778247026"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35690467,
-    "_sha": "e49fe4dfac5edb7dd680a95f74e89401bc8c4e2a",
+    "_change_number": 35740741,
+    "_sha": "c314b7b404879e0acbb975a9e5fd9f35ca5e0e0c",
     "_size": 1886
 }

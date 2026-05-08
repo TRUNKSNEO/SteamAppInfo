@@ -99,9 +99,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7861259772281691096",
-                    "size": "7084469472",
-                    "download": "1476879824"
+                    "gid": "2191155962707100120",
+                    "size": "7083374287",
+                    "download": "1484297600"
                 },
                 "classic": {
                     "gid": "1066263781797053033",
@@ -117,9 +117,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3764330938953880350",
-                    "size": "7631100185",
-                    "download": "1544230832"
+                    "gid": "1986342223967362833",
+                    "size": "7630393713",
+                    "download": "1551178544"
                 },
                 "classic": {
                     "gid": "1229449101651237669",
@@ -130,9 +130,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "22526048",
-                "timeupdated": "1778067772",
-                "timebuildupdated": "1774575514"
+                "buildid": "23146609",
+                "timeupdated": "1778245050",
+                "timebuildupdated": "1778245050"
             },
             "classic": {
                 "buildid": "9193201",
@@ -144,7 +144,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35734120,
-    "_sha": "af8b062a32da05d967cddf1f85d8be92df45c31e",
+    "_change_number": 35739998,
+    "_sha": "dc4c010d0fe6b011c291be5e0fed6669264db671",
     "_size": 2924
 }
