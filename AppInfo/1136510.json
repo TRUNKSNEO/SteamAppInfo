@@ -69,9 +69,9 @@
                     "download": "856982656"
                 },
                 "beta": {
-                    "gid": "6007201954259388954",
-                    "size": "917464052",
-                    "download": "787167936"
+                    "gid": "4026297177672625484",
+                    "size": "917689809",
+                    "download": "787089264"
                 }
             }
         },
@@ -87,9 +87,9 @@
                     "download": "859062624"
                 },
                 "beta": {
-                    "gid": "7651320834379418547",
-                    "size": "840351060",
-                    "download": "792104112"
+                    "gid": "3035684813971436631",
+                    "size": "840362061",
+                    "download": "792106192"
                 }
             }
         },
@@ -105,9 +105,9 @@
                     "download": "856170240"
                 },
                 "beta": {
-                    "gid": "347726893797374703",
-                    "size": "993203499",
-                    "download": "829303952"
+                    "gid": "1467603990336580106",
+                    "size": "993416724",
+                    "download": "829364944"
                 }
             }
         },
@@ -118,10 +118,10 @@
                 "timebuildupdated": "1734757731"
             },
             "beta": {
-                "buildid": "23086859",
+                "buildid": "23157101",
                 "description": "Warfork Beta Testing",
-                "timeupdated": "1777948706",
-                "timebuildupdated": "1777948706"
+                "timeupdated": "1778303290",
+                "timebuildupdated": "1778303290"
             }
         }
     },
@@ -130,7 +130,7 @@
         "maxnumfiles": "0"
     },
     "_missing_token": false,
-    "_change_number": 35655642,
-    "_sha": "438054c087f05d97d2d527a7ab472bbd39771e38",
-    "_size": 2788
+    "_change_number": 35755092,
+    "_sha": "d3349eec38f7f7d8d364ed6efc458ad04a559fae",
+    "_size": 2789
 }
