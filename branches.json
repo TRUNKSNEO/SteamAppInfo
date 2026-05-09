@@ -60,9 +60,9 @@
     },
     "1290": {
         "public": {
-            "buildid": "22961491",
-            "timeupdated": "1777192334",
-            "timebuildupdated": "1777192271"
+            "buildid": "23158652",
+            "timeupdated": "1778318530",
+            "timebuildupdated": "1778318489"
         },
         "legacy-v6.0.0": {
             "buildid": "1026294",
@@ -786,10 +786,10 @@
             "timebuildupdated": "1777856308"
         },
         "release": {
-            "buildid": "23144633",
+            "buildid": "23158754",
             "description": "Release, before public",
-            "timeupdated": "1778236905",
-            "timebuildupdated": "1778236905"
+            "timeupdated": "1778319347",
+            "timebuildupdated": "1778319347"
         },
         "staging": {
             "buildid": "23150664",
@@ -1526,10 +1526,10 @@
             "timebuildupdated": "1696648189"
         },
         "evrima": {
-            "buildid": "22728716",
+            "buildid": "23158667",
             "description": "evrima servers",
-            "timeupdated": "1777977627",
-            "timebuildupdated": "1775817425"
+            "timeupdated": "1778318592",
+            "timebuildupdated": "1778318592"
         }
     },
     "413770": {
