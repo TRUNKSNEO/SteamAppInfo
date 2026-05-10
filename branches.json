@@ -1221,10 +1221,10 @@
             "timebuildupdated": "1773985499"
         },
         "opentesting": {
-            "buildid": "23077077",
+            "buildid": "23170012",
             "description": "Open Testing Branch",
-            "timeupdated": "1777902546",
-            "timebuildupdated": "1777899005"
+            "timeupdated": "1778443893",
+            "timebuildupdated": "1778439363"
         }
     },
     "338440": {
@@ -5181,10 +5181,10 @@
             "timebuildupdated": "1778170806"
         },
         "staging": {
-            "buildid": "23167938",
+            "buildid": "23170942",
             "description": "Builds before live",
-            "timeupdated": "1778419715",
-            "timebuildupdated": "1778419715"
+            "timeupdated": "1778446882",
+            "timebuildupdated": "1778446882"
         }
     },
     "1899880": {
@@ -5315,10 +5315,10 @@
             "timebuildupdated": "1666213418"
         },
         "beta": {
-            "buildid": "23068976",
+            "buildid": "23170590",
             "description": "beta",
-            "timeupdated": "1777839913",
-            "timebuildupdated": "1777837858"
+            "timeupdated": "1778446633",
+            "timebuildupdated": "1778444217"
         },
         "stable": {
             "buildid": "23068976",
