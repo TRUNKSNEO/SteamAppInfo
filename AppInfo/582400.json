@@ -15,7 +15,8 @@
         "osextended": "",
         "name_localized": {
             "russian": "Alien Swarm: Reactive Drop - Выделенный сервер",
-            "brazilian": "Alien Swarm: Reactive Drop - Servidor Dedicado"
+            "brazilian": "Alien Swarm: Reactive Drop - Servidor Dedicado",
+            "indonesian": "Server Dedicated Alien Swarm: Reactive Drop"
         },
         "freetodownload": "1",
         "metacritic_name": "Alien Swarm: Reactive Drop Dedicated Server",
@@ -112,7 +113,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 35720522,
-    "_sha": "2514e519f817f4fdf564cae89bb61aa56857e21d",
-    "_size": 2506
+    "_change_number": 35772012,
+    "_sha": "ea66716709694adc9c8d66e9b235e0293d339d35",
+    "_size": 2569
 }
