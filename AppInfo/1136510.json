@@ -69,9 +69,9 @@
                     "download": "856982656"
                 },
                 "beta": {
-                    "gid": "4026297177672625484",
-                    "size": "917689809",
-                    "download": "787089264"
+                    "gid": "4158993885407569757",
+                    "size": "917698513",
+                    "download": "787227424"
                 }
             }
         },
@@ -87,9 +87,9 @@
                     "download": "859062624"
                 },
                 "beta": {
-                    "gid": "3035684813971436631",
-                    "size": "840362061",
-                    "download": "792106192"
+                    "gid": "2330744084117664026",
+                    "size": "840362157",
+                    "download": "792105808"
                 }
             }
         },
@@ -105,9 +105,9 @@
                     "download": "856170240"
                 },
                 "beta": {
-                    "gid": "1467603990336580106",
-                    "size": "993416724",
-                    "download": "829364944"
+                    "gid": "1590309495345423250",
+                    "size": "993417380",
+                    "download": "829365040"
                 }
             }
         },
@@ -118,10 +118,10 @@
                 "timebuildupdated": "1734757731"
             },
             "beta": {
-                "buildid": "23157101",
+                "buildid": "23165089",
                 "description": "Warfork Beta Testing",
-                "timeupdated": "1778303290",
-                "timebuildupdated": "1778303290"
+                "timeupdated": "1778384877",
+                "timebuildupdated": "1778384877"
             }
         }
     },
@@ -130,7 +130,7 @@
         "maxnumfiles": "0"
     },
     "_missing_token": false,
-    "_change_number": 35755092,
-    "_sha": "d3349eec38f7f7d8d364ed6efc458ad04a559fae",
+    "_change_number": 35766593,
+    "_sha": "e0bb3f382a4b6e8c7aacb568a97120aef863a604",
     "_size": 2789
 }
