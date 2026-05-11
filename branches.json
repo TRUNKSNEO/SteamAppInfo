@@ -126,10 +126,10 @@
             "timebuildupdated": "1778258813"
         },
         "x86-64": {
-            "buildid": "23185276",
+            "buildid": "23187201",
             "description": "64-bit binaries",
-            "timeupdated": "1778526890",
-            "timebuildupdated": "1778526890"
+            "timeupdated": "1778535763",
+            "timebuildupdated": "1778535763"
         }
     },
     "4240": {},
@@ -3837,10 +3837,10 @@
             "timebuildupdated": "1734757731"
         },
         "beta": {
-            "buildid": "23165089",
+            "buildid": "23187238",
             "description": "Warfork Beta Testing",
-            "timeupdated": "1778384877",
-            "timebuildupdated": "1778384877"
+            "timeupdated": "1778535977",
+            "timebuildupdated": "1778535977"
         }
     },
     "1141420": {
