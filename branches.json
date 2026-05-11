@@ -792,9 +792,9 @@
             "timebuildupdated": "1778337129"
         },
         "staging": {
-            "buildid": "23178603",
-            "timeupdated": "1778499490",
-            "timebuildupdated": "1778499490"
+            "buildid": "23183886",
+            "timeupdated": "1778520613",
+            "timebuildupdated": "1778520613"
         }
     },
     "261020": {
@@ -1461,9 +1461,9 @@
     },
     "403240": {
         "public": {
-            "buildid": "23017916",
-            "timeupdated": "1777570112",
-            "timebuildupdated": "1777493927"
+            "buildid": "23140209",
+            "timeupdated": "1778520646",
+            "timebuildupdated": "1778213551"
         },
         "squad_experimental": {
             "buildid": "22595250",
@@ -2349,10 +2349,10 @@
             "timebuildupdated": "1692694313"
         },
         "beta": {
-            "buildid": "23173937",
+            "buildid": "23183796",
             "description": "beta branch",
-            "timeupdated": "1778473241",
-            "timebuildupdated": "1778473240"
+            "timeupdated": "1778520276",
+            "timebuildupdated": "1778520276"
         },
         "devbranch": {
             "buildid": "16447245",
@@ -3200,10 +3200,10 @@
             "timebuildupdated": "1778043165"
         },
         "tester": {
-            "buildid": "23182864",
+            "buildid": "23184187",
             "description": "Tester branch",
-            "timeupdated": "1778516207",
-            "timebuildupdated": "1778516207"
+            "timeupdated": "1778522074",
+            "timebuildupdated": "1778522074"
         }
     },
     "884110": {
@@ -4000,9 +4000,9 @@
     },
     "1189160": {
         "public": {
-            "buildid": "23183013",
-            "timeupdated": "1778516886",
-            "timebuildupdated": "1778516818"
+            "buildid": "23183683",
+            "timeupdated": "1778519874",
+            "timebuildupdated": "1778519827"
         },
         "testserver": {
             "buildid": "11664965",

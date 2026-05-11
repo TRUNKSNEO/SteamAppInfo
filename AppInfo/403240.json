@@ -113,9 +113,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2485526500053269445",
-                    "size": "14622494005",
-                    "download": "13875185904"
+                    "gid": "238031103866909653",
+                    "size": "14621094594",
+                    "download": "13873785328"
                 },
                 "squad_experimental": {
                     "gid": "6968175427677512499",
@@ -132,9 +132,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7848691551556635782",
-                    "size": "14269380773",
-                    "download": "13700088336"
+                    "gid": "293559101320841217",
+                    "size": "14267899332",
+                    "download": "13698760000"
                 },
                 "squad_experimental": {
                     "gid": "3824643638109403729",
@@ -161,9 +161,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "23017916",
-                "timeupdated": "1777570112",
-                "timebuildupdated": "1777493927"
+                "buildid": "23140209",
+                "timeupdated": "1778520646",
+                "timebuildupdated": "1778213551"
             },
             "squad_experimental": {
                 "buildid": "22595250",
@@ -175,7 +175,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35760447,
-    "_sha": "77dd8948046a473acd5c6d033f78a931f0df7184",
-    "_size": 3558
+    "_change_number": 35793891,
+    "_sha": "a5e63b558553c5b6932958d758cfb2aa76b5a8ee",
+    "_size": 3556
 }
