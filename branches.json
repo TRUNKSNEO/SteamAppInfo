@@ -792,9 +792,9 @@
             "timebuildupdated": "1778337129"
         },
         "staging": {
-            "buildid": "23177984",
-            "timeupdated": "1778496832",
-            "timebuildupdated": "1778496832"
+            "buildid": "23178603",
+            "timeupdated": "1778499490",
+            "timebuildupdated": "1778499490"
         }
     },
     "261020": {
@@ -2563,10 +2563,10 @@
             "timebuildupdated": "1778210295"
         },
         "public-test": {
-            "buildid": "23166803",
+            "buildid": "23179281",
             "description": "public test build",
-            "timeupdated": "1778406544",
-            "timebuildupdated": "1778406544"
+            "timeupdated": "1778502326",
+            "timebuildupdated": "1778502326"
         },
         "sdk2007": {
             "buildid": "21540946",
@@ -5250,10 +5250,10 @@
             "timebuildupdated": "1777131897"
         },
         "bleeding-edge": {
-            "buildid": "23130156",
+            "buildid": "23180664",
             "description": "Constant and unstable updates",
-            "timeupdated": "1778163914",
-            "timebuildupdated": "1778163914"
+            "timeupdated": "1778507974",
+            "timebuildupdated": "1778507974"
         }
     },
     "1940990": {
