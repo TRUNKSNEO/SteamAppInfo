@@ -125,9 +125,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7980267399327402566",
-                    "size": "851639962",
-                    "download": "472894592"
+                    "gid": "259090050940650537",
+                    "size": "789061664",
+                    "download": "518196656"
                 },
                 "testserver": {
                     "gid": "281225935279588108",
@@ -151,9 +151,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "22365628",
-                "timeupdated": "1773681536",
-                "timebuildupdated": "1773681089"
+                "buildid": "23183013",
+                "timeupdated": "1778516886",
+                "timebuildupdated": "1778516818"
             },
             "testserver": {
                 "buildid": "11664965",
@@ -164,7 +164,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 34462124,
-    "_sha": "049ee8dd54264266af93014f43237f1e7d7ccf2a",
-    "_size": 3319
+    "_change_number": 35791612,
+    "_sha": "6a612fa0cd945eea86aa38da322cc93d736e2c81",
+    "_size": 3318
 }
