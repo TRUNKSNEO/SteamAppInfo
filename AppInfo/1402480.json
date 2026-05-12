@@ -28,6 +28,39 @@
             "1": "5"
         },
         "restricted_countries": "DE",
+        "steam_deck_compatibility": {
+            "category": "1",
+            "steamos_compatibility": "1",
+            "test_timestamp": "1777939200",
+            "tested_build_id": "22925616",
+            "tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+                }
+            },
+            "steamos_tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamOS_TestResult_SteamOSDoesNotSupport_Retired"
+                }
+            },
+            "configuration": {
+                "supported_input": "other",
+                "requires_manual_keyboard_invoke": "0",
+                "requires_non_controller_launcher_nav": "0",
+                "primary_player_is_controller_slot_0": "0",
+                "non_deck_display_glyphs": "0",
+                "small_text": "0",
+                "requires_internet_for_setup": "0",
+                "requires_internet_for_singleplayer": "0",
+                "recommended_runtime": "proton-11.0-beta",
+                "requires_h264": "0",
+                "requires_voice_files": "0",
+                "gamescope_frame_limiter_not_supported": "0",
+                "hdr_support": "0"
+            }
+        },
         "small_capsule": {
             "english": "capsule_231x87.jpg"
         },
@@ -208,7 +241,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 35419673,
-    "_sha": "f0ed1aa0b6c078e9f8cc7f7c3402324cd2689acc",
-    "_size": 4157
+    "_change_number": 35799693,
+    "_sha": "7d9bc0a6b9868a323db0ef7c6ec60e8609bb180f",
+    "_size": 5099
 }
