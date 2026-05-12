@@ -122,9 +122,9 @@
                     "download": "5687501216"
                 },
                 "experimental": {
-                    "gid": "6197736921212407742",
-                    "size": "17851909181",
-                    "download": "6005734064"
+                    "gid": "7384775410494257405",
+                    "size": "17856535513",
+                    "download": "6006962704"
                 }
             }
         },
@@ -262,16 +262,16 @@
                 "timebuildupdated": "1772810890"
             },
             "experimental": {
-                "buildid": "23189517",
+                "buildid": "23194394",
                 "description": "Bleeding-edge updates",
-                "timeupdated": "1778548767",
-                "timebuildupdated": "1778548767"
+                "timeupdated": "1778576330",
+                "timebuildupdated": "1778576329"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35800678,
-    "_sha": "0d8bfe56ba2fb20f64b7fb3f76435c5424a2febe",
+    "_change_number": 35807583,
+    "_sha": "800063ec0222ed16b23478049be91ccf1ba1c874",
     "_size": 6236
 }
