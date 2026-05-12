@@ -276,7 +276,7 @@
             },
             "27": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 11000 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 11000 +online_websvc_enable_tls 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -284,9 +284,9 @@
                     "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3 qa_capture"
                 },
                 "description_loc": {
-                    "english": "MPQA5"
+                    "english": "MPQA5 (EAC)"
                 },
-                "description": "MPQA5"
+                "description": "MPQA5 (EAC)"
             },
             "28": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -675,7 +675,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35805535,
-    "_sha": "c625e80028d3b9c1d466d99c6567809f8b394203",
-    "_size": 19719
+    "_change_number": 35814080,
+    "_sha": "2a0934485aeb927aead80e8b9d6bfbaaca2ec75a",
+    "_size": 19714
 }

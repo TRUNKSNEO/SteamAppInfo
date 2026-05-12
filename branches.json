@@ -126,10 +126,10 @@
             "timebuildupdated": "1778258813"
         },
         "x86-64": {
-            "buildid": "23187201",
+            "buildid": "23198511",
             "description": "64-bit binaries",
-            "timeupdated": "1778535763",
-            "timebuildupdated": "1778535763"
+            "timeupdated": "1778592521",
+            "timebuildupdated": "1778592521"
         }
     },
     "4240": {},
@@ -5498,10 +5498,10 @@
             "timebuildupdated": "1772810890"
         },
         "experimental": {
-            "buildid": "23196586",
+            "buildid": "23198681",
             "description": "Bleeding-edge updates",
-            "timeupdated": "1778585390",
-            "timebuildupdated": "1778585389"
+            "timeupdated": "1778593161",
+            "timebuildupdated": "1778593161"
         }
     },
     "2132500": {
