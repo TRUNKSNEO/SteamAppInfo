@@ -82,14 +82,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4801848676635438859",
+                    "gid": "2485665648745603887",
                     "size": "4839265542",
-                    "download": "2107689696"
+                    "download": "2107689712"
                 },
                 "public-test": {
-                    "gid": "1722084971227676779",
-                    "size": "4839316230",
-                    "download": "2107699360"
+                    "gid": "8759427376161452153",
+                    "size": "4839314182",
+                    "download": "2107698928"
                 },
                 "sdk2007": {
                     "gid": "1030653134587028036",
@@ -109,14 +109,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1358902715574127203",
+                    "gid": "6626014526575062000",
                     "size": "127397441",
-                    "download": "50827136"
+                    "download": "50827152"
                 },
                 "public-test": {
-                    "gid": "2632588357641386569",
+                    "gid": "902830308709929837",
                     "size": "127494721",
-                    "download": "50854064"
+                    "download": "50855168"
                 },
                 "sdk2007": {
                     "gid": "5257790912175090242",
@@ -159,15 +159,15 @@
         },
         "branches": {
             "public": {
-                "buildid": "23186359",
-                "timeupdated": "1778532060",
-                "timebuildupdated": "1778532059"
+                "buildid": "23205999",
+                "timeupdated": "1778625744",
+                "timebuildupdated": "1778625744"
             },
             "public-test": {
-                "buildid": "23179281",
+                "buildid": "23206072",
                 "description": "public test build",
-                "timeupdated": "1778502326",
-                "timebuildupdated": "1778502326"
+                "timeupdated": "1778625983",
+                "timebuildupdated": "1778625983"
             },
             "sdk2007": {
                 "buildid": "21540946",
@@ -185,7 +185,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35796520,
-    "_sha": "3e07d37a9072711a285318687178f85daacdc964",
-    "_size": 3908
+    "_change_number": 35823780,
+    "_sha": "ff3c0c7469f31456f4fd419ffe4420a2a6ba47ab",
+    "_size": 3907
 }
