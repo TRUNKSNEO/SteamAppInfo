@@ -166,9 +166,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "8055867430366823504",
-                    "size": "262818680",
-                    "download": "262718368"
+                    "gid": "4132506267642462151",
+                    "size": "264306512",
+                    "download": "264197216"
                 }
             },
             "depotfromapp": "1716750"
@@ -183,7 +183,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35238910,
-    "_sha": "6cfdd08cdc5ef63463b8e28504c188989d1b1b9d",
+    "_change_number": 35809014,
+    "_sha": "60161eb0aa15b99d3c7024d3d4c5589b6b954c00",
     "_size": 3820
 }
