@@ -96,9 +96,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "409545481390762061",
-                    "size": "64681005",
-                    "download": "17398784"
+                    "gid": "4299267482233513378",
+                    "size": "65865773",
+                    "download": "17607184"
                 },
                 "bleeding-edge": {
                     "gid": "4299267482233513378",
@@ -113,9 +113,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7939949489016178764",
-                    "size": "99295587",
-                    "download": "29027488"
+                    "gid": "950878308137393953",
+                    "size": "99593731",
+                    "download": "29087328"
                 },
                 "bleeding-edge": {
                     "gid": "950878308137393953",
@@ -127,9 +127,9 @@
         "workshopdepot": "1936830",
         "branches": {
             "public": {
-                "buildid": "22955747",
-                "timeupdated": "1777661644",
-                "timebuildupdated": "1777131897"
+                "buildid": "23181012",
+                "timeupdated": "1778688482",
+                "timebuildupdated": "1778509225"
             },
             "bleeding-edge": {
                 "buildid": "23181012",
@@ -144,7 +144,7 @@
         "maxnumfiles": "100"
     },
     "_missing_token": false,
-    "_change_number": 35788414,
-    "_sha": "387024bebedb810fb524a4d37b4a175801ce7095",
+    "_change_number": 35842417,
+    "_sha": "0169253bd675effc47d5d3832a26681aba984d5a",
     "_size": 2797
 }

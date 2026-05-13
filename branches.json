@@ -798,9 +798,9 @@
             "timebuildupdated": "1778337129"
         },
         "staging": {
-            "buildid": "23216667",
-            "timeupdated": "1778679334",
-            "timebuildupdated": "1778679334"
+            "buildid": "23220176",
+            "timeupdated": "1778692450",
+            "timebuildupdated": "1778692450"
         }
     },
     "261020": {
@@ -2355,10 +2355,10 @@
             "timebuildupdated": "1692694313"
         },
         "beta": {
-            "buildid": "23202078",
+            "buildid": "23220255",
             "description": "beta branch",
-            "timeupdated": "1778606681",
-            "timebuildupdated": "1778606681"
+            "timeupdated": "1778692709",
+            "timebuildupdated": "1778692709"
         },
         "devbranch": {
             "buildid": "16447245",
@@ -2569,10 +2569,10 @@
             "timebuildupdated": "1778625744"
         },
         "public-test": {
-            "buildid": "23217659",
+            "buildid": "23219435",
             "description": "public test build",
-            "timeupdated": "1778682871",
-            "timebuildupdated": "1778682871"
+            "timeupdated": "1778689350",
+            "timebuildupdated": "1778689350"
         },
         "sdk2007": {
             "buildid": "21540946",
@@ -2707,9 +2707,9 @@
     },
     "728470": {
         "public": {
-            "buildid": "22765540",
-            "timeupdated": "1776272377",
-            "timebuildupdated": "1776092352"
+            "buildid": "23010501",
+            "timeupdated": "1778691463",
+            "timebuildupdated": "1777464487"
         }
     },
     "730810": {
@@ -5193,10 +5193,10 @@
             "timebuildupdated": "1778170806"
         },
         "staging": {
-            "buildid": "23202773",
+            "buildid": "23219754",
             "description": "Builds before live",
-            "timeupdated": "1778610036",
-            "timebuildupdated": "1778610036"
+            "timeupdated": "1778690707",
+            "timebuildupdated": "1778690707"
         }
     },
     "1899880": {
@@ -5257,9 +5257,9 @@
     },
     "1936830": {
         "public": {
-            "buildid": "22955747",
-            "timeupdated": "1777661644",
-            "timebuildupdated": "1777131897"
+            "buildid": "23181012",
+            "timeupdated": "1778688482",
+            "timebuildupdated": "1778509225"
         },
         "bleeding-edge": {
             "buildid": "23181012",
