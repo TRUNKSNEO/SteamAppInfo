@@ -112,9 +112,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6116748064547082513",
-                    "size": "4365769683",
-                    "download": "2928992256"
+                    "gid": "7699714057704408834",
+                    "size": "4365767875",
+                    "download": "2922851776"
                 },
                 "conan-exiles-legacy": {
                     "gid": "4327728586500154256",
@@ -130,9 +130,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4787613269343017991",
-                    "size": "4159235287",
-                    "download": "2931517200"
+                    "gid": "2122837490543215067",
+                    "size": "4159303607",
+                    "download": "2929161088"
                 },
                 "conan-exiles-legacy": {
                     "gid": "3199714172864163068",
@@ -143,9 +143,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "23133488",
-                "timeupdated": "1778247915",
-                "timebuildupdated": "1778177052"
+                "buildid": "23202375",
+                "timeupdated": "1778680063",
+                "timebuildupdated": "1778608125"
             },
             "conan-exiles-legacy": {
                 "buildid": "22959347",
@@ -157,7 +157,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35830706,
-    "_sha": "8e06d19ba9212ed4f867d1607e13994c33dda6dc",
+    "_change_number": 35839119,
+    "_sha": "24b0f2dc442ce20deb44f99c109be7859bb72ede",
     "_size": 2972
 }

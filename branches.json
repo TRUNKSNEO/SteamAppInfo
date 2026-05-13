@@ -108,10 +108,10 @@
             "timebuildupdated": "1778258813"
         },
         "dev": {
-            "buildid": "23184657",
+            "buildid": "23217057",
             "description": "Development branch - Live daily updates",
-            "timeupdated": "1778524058",
-            "timebuildupdated": "1778524058"
+            "timeupdated": "1778680826",
+            "timebuildupdated": "1778680826"
         },
         "network_test": {
             "buildid": "22872282",
@@ -798,9 +798,9 @@
             "timebuildupdated": "1778337129"
         },
         "staging": {
-            "buildid": "23214536",
-            "timeupdated": "1778671017",
-            "timebuildupdated": "1778671017"
+            "buildid": "23216667",
+            "timeupdated": "1778679334",
+            "timebuildupdated": "1778679334"
         }
     },
     "261020": {
@@ -1613,9 +1613,9 @@
     },
     "443030": {
         "public": {
-            "buildid": "23133488",
-            "timeupdated": "1778247915",
-            "timebuildupdated": "1778177052"
+            "buildid": "23202375",
+            "timeupdated": "1778680063",
+            "timebuildupdated": "1778608125"
         },
         "conan-exiles-legacy": {
             "buildid": "22959347",
@@ -2003,10 +2003,10 @@
             "timebuildupdated": "1749492966"
         },
         "experimental": {
-            "buildid": "23159778",
+            "buildid": "23196448",
             "description": "Experimental branch",
-            "timeupdated": "1778342894",
-            "timebuildupdated": "1778329862"
+            "timeupdated": "1778674944",
+            "timebuildupdated": "1778584822"
         }
     },
     "532330": {
@@ -2569,10 +2569,10 @@
             "timebuildupdated": "1778625744"
         },
         "public-test": {
-            "buildid": "23213703",
+            "buildid": "23217659",
             "description": "public test build",
-            "timeupdated": "1778667845",
-            "timebuildupdated": "1778667845"
+            "timeupdated": "1778682871",
+            "timebuildupdated": "1778682871"
         },
         "sdk2007": {
             "buildid": "21540946",
@@ -5102,6 +5102,12 @@
             "description": "Release (1.0) version - Originally released: 2024-06-11",
             "timeupdated": "1759843307",
             "timebuildupdated": "1759758044"
+        },
+        "public-test": {
+            "buildid": "23215375",
+            "description": "Public test branch. Only for testing, do not run as your main install. Always backup your saves!",
+            "timeupdated": "1778675595",
+            "timebuildupdated": "1778674306"
         }
     },
     "1830410": {
@@ -5504,10 +5510,10 @@
             "timebuildupdated": "1772810890"
         },
         "experimental": {
-            "buildid": "23203161",
+            "buildid": "23217481",
             "description": "Bleeding-edge updates",
-            "timeupdated": "1778611908",
-            "timebuildupdated": "1778611908"
+            "timeupdated": "1778682281",
+            "timebuildupdated": "1778682281"
         }
     },
     "2132500": {
