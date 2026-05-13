@@ -96,14 +96,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4299267482233513378",
-                    "size": "65865773",
-                    "download": "17607184"
+                    "gid": "5421831558412724859",
+                    "size": "65866285",
+                    "download": "17607808"
                 },
                 "bleeding-edge": {
-                    "gid": "4299267482233513378",
-                    "size": "65865773",
-                    "download": "17607184"
+                    "gid": "5421831558412724859",
+                    "size": "65866285",
+                    "download": "17607808"
                 }
             }
         },
@@ -113,29 +113,29 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "950878308137393953",
+                    "gid": "8757830729516118819",
                     "size": "99593731",
-                    "download": "29087328"
+                    "download": "29086656"
                 },
                 "bleeding-edge": {
-                    "gid": "950878308137393953",
+                    "gid": "8757830729516118819",
                     "size": "99593731",
-                    "download": "29087328"
+                    "download": "29086656"
                 }
             }
         },
         "workshopdepot": "1936830",
         "branches": {
             "public": {
-                "buildid": "23181012",
-                "timeupdated": "1778688482",
-                "timebuildupdated": "1778509225"
+                "buildid": "23221747",
+                "timeupdated": "1778699477",
+                "timebuildupdated": "1778699338"
             },
             "bleeding-edge": {
-                "buildid": "23181012",
+                "buildid": "23221747",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1778509225",
-                "timebuildupdated": "1778509225"
+                "timeupdated": "1778699338",
+                "timebuildupdated": "1778699338"
             }
         }
     },
@@ -144,7 +144,7 @@
         "maxnumfiles": "100"
     },
     "_missing_token": false,
-    "_change_number": 35842417,
-    "_sha": "0169253bd675effc47d5d3832a26681aba984d5a",
-    "_size": 2797
+    "_change_number": 35845992,
+    "_sha": "292dd8b97f23dee21110b8669d3059c9bca352f7",
+    "_size": 2799
 }

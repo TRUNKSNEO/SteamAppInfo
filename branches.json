@@ -2355,10 +2355,10 @@
             "timebuildupdated": "1692694313"
         },
         "beta": {
-            "buildid": "23220255",
+            "buildid": "23220347",
             "description": "beta branch",
-            "timeupdated": "1778692709",
-            "timebuildupdated": "1778692709"
+            "timeupdated": "1778693085",
+            "timebuildupdated": "1778693084"
         },
         "devbranch": {
             "buildid": "16447245",
@@ -5193,10 +5193,10 @@
             "timebuildupdated": "1778170806"
         },
         "staging": {
-            "buildid": "23219754",
+            "buildid": "23220769",
             "description": "Builds before live",
-            "timeupdated": "1778690707",
-            "timebuildupdated": "1778690707"
+            "timeupdated": "1778694848",
+            "timebuildupdated": "1778694848"
         }
     },
     "1899880": {
@@ -5257,15 +5257,15 @@
     },
     "1936830": {
         "public": {
-            "buildid": "23181012",
-            "timeupdated": "1778688482",
-            "timebuildupdated": "1778509225"
+            "buildid": "23221747",
+            "timeupdated": "1778699477",
+            "timebuildupdated": "1778699338"
         },
         "bleeding-edge": {
-            "buildid": "23181012",
+            "buildid": "23221747",
             "description": "Constant and unstable updates",
-            "timeupdated": "1778509225",
-            "timebuildupdated": "1778509225"
+            "timeupdated": "1778699338",
+            "timebuildupdated": "1778699338"
         }
     },
     "1940990": {
