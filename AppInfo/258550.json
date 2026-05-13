@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -42,9 +43,9 @@
                     "download": "551873136"
                 },
                 "aux02": {
-                    "gid": "1460038262707694013",
-                    "size": "826833493",
-                    "download": "560659040"
+                    "gid": "3803445108358737396",
+                    "size": "826916949",
+                    "download": "560690320"
                 },
                 "aux04": {
                     "gid": "7743688420087448109",
@@ -94,9 +95,9 @@
                     "download": "641109296"
                 },
                 "aux02": {
-                    "gid": "8023061077711936072",
-                    "size": "832835539",
-                    "download": "530345200"
+                    "gid": "2559546036641574848",
+                    "size": "833196699",
+                    "download": "530441968"
                 },
                 "aux04": {
                     "gid": "5435822986125047020",
@@ -143,9 +144,9 @@
                     "download": "2505165312"
                 },
                 "aux02": {
-                    "gid": "6683252432703490082",
+                    "gid": "2821826249620944319",
                     "size": "4965453872",
-                    "download": "1144447360"
+                    "download": "1144445232"
                 },
                 "aux04": {
                     "gid": "5984446436231714567",
@@ -193,10 +194,10 @@
                 "timebuildupdated": "1768436960"
             },
             "aux02": {
-                "buildid": "23215451",
+                "buildid": "23221985",
                 "description": "Up and coming",
-                "timeupdated": "1778674635",
-                "timebuildupdated": "1778674635"
+                "timeupdated": "1778700444",
+                "timebuildupdated": "1778700444"
             },
             "aux04": {
                 "buildid": "23210676",
@@ -231,7 +232,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35845087,
-    "_sha": "1955d8a678869704678057026e9b91ffe4923217",
-    "_size": 5098
+    "_change_number": 35846300,
+    "_sha": "0c0130977f725b968e9d31d8938555fadb2f6d77",
+    "_size": 5121
 }
