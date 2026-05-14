@@ -213,9 +213,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7521305774747899260",
-                    "size": "89493619075",
-                    "download": "75049967440"
+                    "gid": "7733497470205800232",
+                    "size": "88414812518",
+                    "download": "74226125232"
                 }
             }
         },
@@ -234,14 +234,14 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "22925616",
-                "timeupdated": "1776958316",
-                "timebuildupdated": "1776958316"
+                "buildid": "23232025",
+                "timeupdated": "1778752678",
+                "timebuildupdated": "1778752678"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 35799693,
-    "_sha": "7d9bc0a6b9868a323db0ef7c6ec60e8609bb180f",
+    "_change_number": 35859896,
+    "_sha": "4b18f001da0e2d3906ce09df90f234041fcb6ec4",
     "_size": 5099
 }
