@@ -108,10 +108,10 @@
             "timebuildupdated": "1778258813"
         },
         "dev": {
-            "buildid": "23235630",
+            "buildid": "23241185",
             "description": "Development branch - Live daily updates",
-            "timeupdated": "1778768123",
-            "timebuildupdated": "1778768123"
+            "timeupdated": "1778792373",
+            "timebuildupdated": "1778792373"
         },
         "network_test": {
             "buildid": "22872282",
@@ -2569,10 +2569,10 @@
             "timebuildupdated": "1778739750"
         },
         "public-test": {
-            "buildid": "23233912",
+            "buildid": "23241057",
             "description": "public test build",
-            "timeupdated": "1778761102",
-            "timebuildupdated": "1778761102"
+            "timeupdated": "1778791786",
+            "timebuildupdated": "1778791786"
         },
         "sdk2007": {
             "buildid": "21540946",
