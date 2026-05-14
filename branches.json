@@ -108,10 +108,10 @@
             "timebuildupdated": "1778258813"
         },
         "dev": {
-            "buildid": "23222656",
+            "buildid": "23235630",
             "description": "Development branch - Live daily updates",
-            "timeupdated": "1778703446",
-            "timebuildupdated": "1778703446"
+            "timeupdated": "1778768123",
+            "timebuildupdated": "1778768123"
         },
         "network_test": {
             "buildid": "22872282",
@@ -126,10 +126,10 @@
             "timebuildupdated": "1778258813"
         },
         "x86-64": {
-            "buildid": "23223452",
+            "buildid": "23235770",
             "description": "64-bit binaries",
-            "timeupdated": "1778707458",
-            "timebuildupdated": "1778707458"
+            "timeupdated": "1778768622",
+            "timebuildupdated": "1778768622"
         }
     },
     "4240": {},
@@ -798,9 +798,9 @@
             "timebuildupdated": "1778337129"
         },
         "staging": {
-            "buildid": "23231808",
-            "timeupdated": "1778751680",
-            "timebuildupdated": "1778751680"
+            "buildid": "23236737",
+            "timeupdated": "1778772385",
+            "timebuildupdated": "1778772385"
         }
     },
     "261020": {
@@ -5263,15 +5263,15 @@
     },
     "1936830": {
         "public": {
-            "buildid": "23221747",
-            "timeupdated": "1778699477",
-            "timebuildupdated": "1778699338"
+            "buildid": "23234971",
+            "timeupdated": "1778766120",
+            "timebuildupdated": "1778765695"
         },
         "bleeding-edge": {
-            "buildid": "23221747",
+            "buildid": "23234971",
             "description": "Constant and unstable updates",
-            "timeupdated": "1778699338",
-            "timebuildupdated": "1778699338"
+            "timeupdated": "1778765695",
+            "timebuildupdated": "1778765695"
         }
     },
     "1940990": {

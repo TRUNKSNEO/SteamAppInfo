@@ -76,7 +76,7 @@
                     "download": "3444371072"
                 },
                 "dev": {
-                    "gid": "1489940570493359296",
+                    "gid": "523594814125445905",
                     "size": "6639052267",
                     "download": "3444594528"
                 },
@@ -91,7 +91,7 @@
                     "download": "3444371072"
                 },
                 "x86-64": {
-                    "gid": "4334907550918675251",
+                    "gid": "6423422162449284017",
                     "size": "6637513036",
                     "download": "3444068096"
                 }
@@ -109,9 +109,9 @@
                     "download": "31377920"
                 },
                 "dev": {
-                    "gid": "7650139023372464699",
-                    "size": "251879488",
-                    "download": "94005088"
+                    "gid": "6305342323637357079",
+                    "size": "251876928",
+                    "download": "94003744"
                 },
                 "network_test": {
                     "gid": "3177607210704862855",
@@ -124,9 +124,9 @@
                     "download": "31377920"
                 },
                 "x86-64": {
-                    "gid": "1946653058006915875",
-                    "size": "427068720",
-                    "download": "162067440"
+                    "gid": "5285873335139823608",
+                    "size": "427066160",
+                    "download": "162065520"
                 }
             }
         },
@@ -142,9 +142,9 @@
                     "download": "38076832"
                 },
                 "dev": {
-                    "gid": "48214209313382311",
+                    "gid": "3992825132860041564",
                     "size": "129171826",
-                    "download": "40398320"
+                    "download": "40398400"
                 },
                 "network_test": {
                     "gid": "5686893750677583943",
@@ -157,9 +157,9 @@
                     "download": "38076832"
                 },
                 "x86-64": {
-                    "gid": "4638833199368429867",
+                    "gid": "4750759121916716313",
                     "size": "227680298",
-                    "download": "70831952"
+                    "download": "70831056"
                 }
             }
         },
@@ -171,10 +171,10 @@
                 "timebuildupdated": "1778258813"
             },
             "dev": {
-                "buildid": "23222656",
+                "buildid": "23235630",
                 "description": "Development branch - Live daily updates",
-                "timeupdated": "1778703446",
-                "timebuildupdated": "1778703446"
+                "timeupdated": "1778768123",
+                "timebuildupdated": "1778768123"
             },
             "network_test": {
                 "buildid": "22872282",
@@ -189,15 +189,15 @@
                 "timebuildupdated": "1778258813"
             },
             "x86-64": {
-                "buildid": "23223452",
+                "buildid": "23235770",
                 "description": "64-bit binaries",
-                "timeupdated": "1778707458",
-                "timebuildupdated": "1778707458"
+                "timeupdated": "1778768622",
+                "timebuildupdated": "1778768622"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 35848320,
-    "_sha": "6380067a4f2c10f5367facf2475445e6100792fb",
-    "_size": 4202
+    "_change_number": 35865287,
+    "_sha": "595fab254e9a4a5ec50b1f2ee49d1fb42df6a4b1",
+    "_size": 4203
 }
