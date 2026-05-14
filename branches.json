@@ -798,9 +798,9 @@
             "timebuildupdated": "1778337129"
         },
         "staging": {
-            "buildid": "23238042",
-            "timeupdated": "1778777930",
-            "timebuildupdated": "1778777930"
+            "buildid": "23240590",
+            "timeupdated": "1778789990",
+            "timebuildupdated": "1778789990"
         }
     },
     "261020": {
@@ -1599,9 +1599,9 @@
     },
     "439660": {
         "public": {
-            "buildid": "22702952",
-            "timeupdated": "1775695633",
-            "timebuildupdated": "1775685605"
+            "buildid": "23232723",
+            "timeupdated": "1778789591",
+            "timebuildupdated": "1778755684"
         }
     },
     "439700": {
@@ -3206,10 +3206,10 @@
             "timebuildupdated": "1778560862"
         },
         "tester": {
-            "buildid": "23227790",
+            "buildid": "23240721",
             "description": "Tester branch",
-            "timeupdated": "1778730497",
-            "timebuildupdated": "1778730497"
+            "timeupdated": "1778790481",
+            "timebuildupdated": "1778790481"
         }
     },
     "884110": {
@@ -3843,10 +3843,10 @@
             "timebuildupdated": "1734757731"
         },
         "beta": {
-            "buildid": "23187238",
+            "buildid": "23239858",
             "description": "Warfork Beta Testing",
-            "timeupdated": "1778535977",
-            "timebuildupdated": "1778535977"
+            "timeupdated": "1778786536",
+            "timebuildupdated": "1778786536"
         }
     },
     "1141420": {
