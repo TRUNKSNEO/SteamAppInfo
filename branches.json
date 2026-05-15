@@ -774,10 +774,10 @@
             "timebuildupdated": "1778700444"
         },
         "aux04": {
-            "buildid": "23210676",
+            "buildid": "23244723",
             "description": "PlayerUpdate",
-            "timeupdated": "1778655206",
-            "timebuildupdated": "1778655206"
+            "timeupdated": "1778812899",
+            "timebuildupdated": "1778812899"
         },
         "debug": {
             "buildid": "17041002",
@@ -3206,10 +3206,10 @@
             "timebuildupdated": "1778560862"
         },
         "tester": {
-            "buildid": "23240721",
+            "buildid": "23245873",
             "description": "Tester branch",
-            "timeupdated": "1778790481",
-            "timebuildupdated": "1778790481"
+            "timeupdated": "1778819541",
+            "timebuildupdated": "1778819541"
         }
     },
     "884110": {
