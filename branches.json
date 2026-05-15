@@ -3212,10 +3212,10 @@
             "timebuildupdated": "1778560862"
         },
         "tester": {
-            "buildid": "23245873",
+            "buildid": "23259366",
             "description": "Tester branch",
-            "timeupdated": "1778819541",
-            "timebuildupdated": "1778819541"
+            "timeupdated": "1778879677",
+            "timebuildupdated": "1778879677"
         }
     },
     "884110": {
@@ -5269,15 +5269,15 @@
     },
     "1936830": {
         "public": {
-            "buildid": "23252765",
-            "timeupdated": "1778852621",
-            "timebuildupdated": "1778850989"
+            "buildid": "23259006",
+            "timeupdated": "1778878483",
+            "timebuildupdated": "1778877795"
         },
         "bleeding-edge": {
-            "buildid": "23252765",
+            "buildid": "23259006",
             "description": "Constant and unstable updates",
-            "timeupdated": "1778850989",
-            "timebuildupdated": "1778850989"
+            "timeupdated": "1778877795",
+            "timebuildupdated": "1778877795"
         }
     },
     "1940990": {
