@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -231,7 +232,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35894917,
-    "_sha": "b5b794993a78d801dd3be9f273c5612761b8174c",
-    "_size": 5098
+    "_change_number": 35895576,
+    "_sha": "9f433957137d4ee2162d9dc310d85981736f1db3",
+    "_size": 5121
 }
