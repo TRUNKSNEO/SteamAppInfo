@@ -96,9 +96,9 @@
         "336401": {
             "manifests": {
                 "public": {
-                    "gid": "11664359335261644",
-                    "size": "1432364868",
-                    "download": "1096432112"
+                    "gid": "3019415481399716048",
+                    "size": "1445268271",
+                    "download": "1126901216"
                 },
                 "opentesting": {
                     "gid": "4284108708100305381",
@@ -109,9 +109,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "22427980",
-                "timeupdated": "1774110859",
-                "timebuildupdated": "1773985499"
+                "buildid": "23246653",
+                "timeupdated": "1778858474",
+                "timebuildupdated": "1778824465"
             },
             "opentesting": {
                 "buildid": "23170012",
@@ -122,7 +122,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 35774318,
-    "_sha": "dc6231252ffaffc55ab2bc3e45360d838991a2c6",
-    "_size": 2464
+    "_change_number": 35892068,
+    "_sha": "94dd35ef0078af32788921a7c79306f37ee5a03c",
+    "_size": 2466
 }

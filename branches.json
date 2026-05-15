@@ -1222,9 +1222,9 @@
     },
     "336400": {
         "public": {
-            "buildid": "22427980",
-            "timeupdated": "1774110859",
-            "timebuildupdated": "1773985499"
+            "buildid": "23246653",
+            "timeupdated": "1778858474",
+            "timebuildupdated": "1778824465"
         },
         "opentesting": {
             "buildid": "23170012",
@@ -1564,6 +1564,12 @@
             "buildid": "19072539",
             "timeupdated": "1751979822",
             "timebuildupdated": "1751417081"
+        },
+        "stabilityupdate": {
+            "buildid": "23145618",
+            "description": "stability update test branch",
+            "timeupdated": "1778861216",
+            "timebuildupdated": "1778240792"
         }
     },
     "419790": {
