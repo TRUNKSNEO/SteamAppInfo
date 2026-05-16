@@ -59,7 +59,8 @@
         "workshop_visible": "1",
         "community_hub_visible": "1",
         "gameid": "912290",
-        "exfgls": "3"
+        "exfgls": "3",
+        "store_tags": {}
     },
     "extended": {
         "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=912290",
@@ -128,9 +129,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5454717117239127409",
-                    "size": "15075943070",
-                    "download": "12945313024"
+                    "gid": "4192948447446863296",
+                    "size": "15123759975",
+                    "download": "13013756128"
                 }
             }
         },
@@ -148,9 +149,9 @@
         "workshopdepot": "912290",
         "branches": {
             "public": {
-                "buildid": "20533309",
-                "timeupdated": "1761330486",
-                "timebuildupdated": "1761329170"
+                "buildid": "23226980",
+                "timeupdated": "1778899263",
+                "timebuildupdated": "1778725848"
             }
         },
         "privatebranches": "1"
@@ -162,7 +163,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 35894917,
-    "_sha": "ca1cea215a1ccad6a8cf2f586849434a71a4960a",
-    "_size": 3392
+    "_change_number": 35902879,
+    "_sha": "8858a82771e819e7af9ac0199e53e5c58dbb9886",
+    "_size": 3415
 }
