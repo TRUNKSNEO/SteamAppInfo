@@ -169,7 +169,9 @@
         "content_descriptors_including_dlc": {
             "0": "5"
         },
-        "store_tags": {},
+        "store_tags": {
+            "0": "1774"
+        },
         "review_score": "5",
         "review_percentage": "46"
     },
@@ -675,7 +677,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35902052,
-    "_sha": "2a0934485aeb927aead80e8b9d6bfbaaca2ec75a",
-    "_size": 19714
+    "_change_number": 35905135,
+    "_sha": "0bb58bf583cac171e5d288e5086f15250b767a97",
+    "_size": 19729
 }
